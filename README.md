@@ -1,2 +1,2 @@
 # DevChat
-A Chatting Application for Developers
+Developer's Chatting Application Frontend
